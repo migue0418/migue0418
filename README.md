@@ -1,6 +1,6 @@
 # Hi, I’m Miguel Ángel (Migue) Benítez 👋
 
-🚀 **AI Engineer / Data Scientist** focused on building **LLM agents** and **RAG systems** that can be shipped to production.
+🚀 **AI Engineer** focused on building **LLM agents** and **RAG systems** that can be shipped to production.
 
 I work end-to-end: from backend APIs to web interfaces, with a strong focus on clean code, scalability, and observability.
 
