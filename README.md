@@ -1,39 +1,39 @@
-## ¡Bienvenido a mi Github! 👋
+# Hi, I’m Miguel Ángel (Migue) Benítez 👋
 
-### Soy Miguel Ángel Benítez Alguacil, un estudiante de cuarto curso del grado de Ingeniería Informática de la [Universidad de Granada](https://www.ugr.es/).
+🚀 **AI Engineer / Data Scientist** focused on building **LLM agents** and **RAG systems** that can be shipped to production.
 
-#### En este github voy subiendo distintos proyectos en los que estoy trabajando, como: 
-- Prácticas durante la carrera (tanto de la UGR como de [Åbo Akademi University](https://www.abo.fi/en/about-abo-akademi-university/), donde realicé un curso Erasmus).
-- Proyectos propios.
-- Cursos en los que he participado.
+I work end-to-end: from backend APIs to web interfaces, with a strong focus on clean code, scalability, and observability.
+
+## 🧠 What I do
+- **LLM agents** with **LangChain** and **LangGraph** (multi-agent architectures)
+- **RAG pipelines** with vector databases (**Milvus**, **Qdrant**)
+- **Backend** in **Python / FastAPI**
+- **Web UIs** in **React**
+- **Monitoring** via structured logging + dashboards
+
+## 🛠️ Tech stack
+
+### Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### GenAI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B5563?style=for-the-badge&logo=graphql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4A4A?style=for-the-badge&logo=qdrant&logoColor=white)
 
 
-### Lenguajes y Herramientas:
+## 📌 Currently
+- Building production-grade agentic systems (WhatsApp / Microsoft Teams / Web)
+- Improving RAG quality (chunking, embeddings, retrieval, evaluation)
+- Hardening deployments and observability
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://github.com/migue0418/migue0418/blob/main/images/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://github.com/migue0418/migue0418/blob/main/images/css.png" /></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/migue0418/migue0418/blob/main/images/c.png"/> </a>
-<a href="https://www.java.com/" target="_blank"> <img align="left" alt="Java" width="30px" src="https://github.com/migue0418/migue0418/blob/main/images/java.png"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="JavaScript" width="26px" src="https://github.com/migue0418/migue0418/blob/main/images/javascript.png"/> </a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/migue0418/migue0418/blob/main/images/python.png"/> </a>
-<a href="https://www.php.net/" target="_blank"> <img align="left" alt="PHP" width="30px" src="https://github.com/migue0418/migue0418/blob/main/images/php.png"/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank"> <img align="left" alt="Ruby" width="26px" src="https://github.com/migue0418/migue0418/blob/main/images/ruby.png"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySQL" width="30px" src="https://github.com/migue0418/migue0418/blob/main/images/mysql.png"/> </a>
-
-<br />
-<br />
-
-### Software:
-
-<a href="https://www.photoshop.com/" target="_blank"> <img align="left" alt="Photoshop" width="30px" src="https://github.com/migue0418/migue0418/blob/main/images/photoshop.png"/> </a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="30px" src="https://github.com/migue0418/migue0418/blob/main/images/illustrator.png"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/migue0418/migue0418/blob/main/images/visual.png"/> </a>
-<a href="https://unity.com/" target="_blank"> <img align="left" alt="Unity" width="30px" src="https://github.com/migue0418/migue0418/blob/main/images/unity.png"/> </a>
-
-<br />
-<br />
-
-### Frameworks que he usado en algún proyecto:
-
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="ReactJS" width="30px" src="https://github.com/migue0418/migue0418/blob/main/images/react.png"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img align="left" alt="Django" width="26px" src="https://github.com/migue0418/migue0418/blob/main/images/django.png"/> </a>
+## 📫 Let’s connect
+- LinkedIn: https://www.linkedin.com/in/miguealguacil/
+- Email: miguealguacil@gmail.com
